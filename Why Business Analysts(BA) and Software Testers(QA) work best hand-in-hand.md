@@ -25,5 +25,5 @@ Fewer defects slipping into production.
 Stronger alignment between business needs and technical delivery.
 Faster delivery cycles, because misunderstandings are resolved early.
 
-Final Thoughts
+Final Thoughts,
 Whether you’re in real estate, healthcare, or any other industry, one lesson I carried forward is, QA and BA are not just complementary roles—they’re partners in delivering value. Some of my most successful projects were the ones where testers and business analysts worked together from day one, asking the right questions and keeping business outcomes at the center.
